@@ -12,7 +12,7 @@ Bruteforce attack, For educational purpose only
 ## Run commands one by one
 ```
 >> git clone https://github.com/sumonasharmin/fbboot.git
->> cd Facebook-BruteForce
+>> cd fbboot
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
 >> python3 fb.py or python fb2.py
@@ -25,7 +25,7 @@ Bruteforce attack, For educational purpose only
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-t.me/M4H1M/
+https://t.me/M4H1M/
 
 ~~~
 Happy Hacking Day !
